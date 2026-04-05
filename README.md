@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:e8003d&height=200&section=header&text=Jayanth%20Vasupilli&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20UC%20Irvine%20%E2%80%A2%20Class%20of%202029&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0005&height=160&text=JAYANTH%20VASUPILLI&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=CSE%20%40%20UCI%20%E2%80%A2%20%2729%20%7C%20AI%20%7C%20Computer%20Vision%20%7C%20Full-Stack&descSize=15&descAlignY=78&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E8003D&center=true&vCenter=true&width=700&lines=Building+AI+tools+at+18.;Ferrari+fan.+Powerlifter.+Fragrance+nerd.;First-year+CSE+%40+UCI+%E2%80%94+just+getting+started.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=FF4444&center=true&vCenter=true&width=650&lines=Ferrari+over+everything.;I+powerlift+and+I+write+code.+Not+in+that+order.;CV+models+by+day%2C+fragrance+nerd+by+night.;First+year.+Not+acting+like+it.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/jayanthvee/jayanthvee/main/assets/me.jpg" width="210" alt="Jayanth Vasupilli"/>
+<img align="right" src="https://raw.githubusercontent.com/jayanthvee/jayanthvee/main/assets/me.jpeg" width="210" alt="Jayanth Vasupilli"/>
 
 ### Who I am
 
@@ -113,9 +113,9 @@ Currently deep in computer vision and full-stack — always hunting for the next
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayanthvee&show_icons=true&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d&ring_color=e8003d&count_private=true&hide_border=false&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayanthvee&show_icons=true&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d&ring_color=e8003d&count_private=true&cache_seconds=1800"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthvee&layout=compact&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&langs_count=6&hide_border=false&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthvee&layout=compact&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&langs_count=6&cache_seconds=1800"/>
 
 <br/><br/>
 
