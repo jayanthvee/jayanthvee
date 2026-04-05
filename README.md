@@ -38,9 +38,11 @@
 
 I'm 18, studying CS at UC Irvine, and spending most of my time building things at the intersection of AI and real-world problems.
 
-I follow Formula 1 with an embarrassing level of seriousness. I powerlift. I have strong opinions about fragrances. Code is just another thing I care about too much.
+I follow Formula 1 with an embarrassing level of seriousness. I powerlift. I love collecting fragrances and love coding!
 
-Currently deep in computer vision and full-stack — always hunting for the next problem worth solving.
+Currently building Poko, the productivity app for people with ADHD.
+
+Always looking for a new problem to solve. 
 
 <br clear="right"/>
 
