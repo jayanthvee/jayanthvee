@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=FF4444&center=true&vCenter=true&width=650&lines=Ferrari+over+everything.;I+powerlift+and+I+write+code.+Not+in+that+order.;CV+models+by+day%2C+fragrance+nerd+by+night.;First+year.+Not+acting+like+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=FF4444&center=true&vCenter=true&width=650&lines=Building+technology+for+people+who+actually+need+it.;Ferrari+over+everything.;I+powerlift+and+I+write+code.+Not+in+that+order.;Fragrance+nerd+who+also+happens+to+do+AI.)](https://git.io/typing-svg)
 
 <br/>
 
