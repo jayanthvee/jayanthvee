@@ -9,19 +9,19 @@
 <br/>
 
 <a href="https://linkedin.com/in/vasujayanth">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://medium.com/@mailjaitu">
-  <img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black"/>
 </a>
 &nbsp;
 <a href="mailto:mailjaitu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/jayanthvee">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/jayanthvee/jayanthvee/main/assets/me.jpg" width="220" style="border-radius: 12px; margin-left: 20px;" alt="Jayanth Vasupilli"/>
+<img align="right" src="https://raw.githubusercontent.com/jayanthvee/jayanthvee/main/assets/me.jpg" width="210" alt="Jayanth Vasupilli"/>
 
 ### Who I am
 
@@ -51,13 +51,13 @@ Currently deep in computer vision and full-stack — always hunting for the next
 <div align="center">
 
 <a href="https://github.com/jayanthvee/poko-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayanthvee&repo=poko-app&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayanthvee&repo=poko-app&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d"/>
 </a>
 <a href="https://github.com/jayanthvee/halo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayanthvee&repo=halo&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayanthvee&repo=halo&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d"/>
 </a>
 <a href="https://github.com/jayanthvee/chud-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayanthvee&repo=chud-ai&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayanthvee&repo=chud-ai&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d"/>
 </a>
 
 </div>
@@ -69,7 +69,7 @@ Currently deep in computer vision and full-stack — always hunting for the next
 | **[Poko](https://github.com/jayanthvee/poko-app)** | Productivity app built around how ADHD brains actually work — state-aware, not just a to-do list | `Next.js` `Supabase` `TypeScript` |
 | **[Halo](https://github.com/jayanthvee/halo)** | Safety-first navigation that routes around risk, not just traffic | `React Native` `REST APIs` |
 | **[Chud AI](https://github.com/jayanthvee/chud-ai)** | Real-time 3D facial geometry analysis from a live webcam feed | `Python` `OpenCV` `MediaPipe` |
-| **F1 Car Detection** | CV model that identifies F1 cars on-track from broadcast footage | `Python` `YOLOv8` `Roboflow` |
+| **[F1 Car Detection](https://medium.com/@mailjaitu/i-trained-an-ai-to-recognize-f1-cars-in-record-time-with-roboflow-5a4bb30d2218)** | CV model that identifies F1 cars on-track from broadcast footage | `Python` `YOLOv8` `Roboflow` |
 
 ---
 
@@ -113,20 +113,14 @@ Currently deep in computer vision and full-stack — always hunting for the next
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayanthvee&show_icons=true&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d&ring_color=e8003d" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayanthvee&show_icons=true&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&icon_color=e8003d&ring_color=e8003d&count_private=true&hide_border=false&cache_seconds=1800"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthvee&layout=compact&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&langs_count=6" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthvee&layout=compact&theme=radical&bg_color=0d1117&border_color=e8003d&title_color=e8003d&langs_count=6&hide_border=false&cache_seconds=1800"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthvee&theme=radical&background=0d1117&ring=e8003d&fire=e8003d&currStreakLabel=e8003d&border=e8003d" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=jayanthvee&theme=radical&background=0d1117&ring=e8003d&fire=e8003d&currStreakLabel=e8003d&border=e8003d&sideLabels=ffffff&dates=888888" width="500"/>
 
-</div>
-
----
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanthvee&bg_color=0d1117&color=e8003d&line=e8003d&point=ffffff&area=true&hide_border=false&border_color=e8003d&hide_title=true" width="95%"/>
 </div>
 
 ---
